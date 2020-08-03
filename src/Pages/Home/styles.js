@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   resultText: {
-    fontSize: 100
+    fontSize: 50
   },
   resultButton: {
     backgroundColor: '#555',
@@ -66,6 +66,15 @@ const styles = StyleSheet.create({
   headerModalButtonText: {
     fontSize: 35,
     color: '#fff'
+  },
+  modalListItem: {
+    backgroundColor: '#555',
+    height: 70,
+    alignItems: 'center',
+    justifyContent: 'center'
+  },
+  modalListItemText: {
+    fontSize: 25
   }
 })
 
