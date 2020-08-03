@@ -7,5 +7,5 @@ O objetivo desse projeto é implementar a funcionalidade de conversão de moedas
 
 No futuro posso fazer um gráfico com o histórico das moedas, mas não agora...
 
-<a>link teste</a>
+<a href="#">link teste</a>
 
